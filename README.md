@@ -16,10 +16,10 @@ Watch the demo here:
 Full Storyline project is available upon request for review or evaluation purposes.
 
 The full version includes:
-Interactive scenarios
-Knowledge checks and assessments
-Learner-controlled navigation
-Complete course functionality
+- Interactive scenarios
+- Knowledge checks and assessments
+- Learner-controlled navigation
+- Complete course functionality
 
 📩 Contact:
 Email: w.azeem.connect@gmail.com 
