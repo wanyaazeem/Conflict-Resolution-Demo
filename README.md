@@ -22,5 +22,5 @@ The full version includes:
 - Complete course functionality
 
 📩 Contact:
-Email: w.azeem.connect@gmail.com 
-LinkedIn:  http://linkedin.com/in/wanya-azeem-563196277
+- Email: w.azeem.connect@gmail.com 
+- LinkedIn:  http://linkedin.com/in/wanya-azeem-563196277
