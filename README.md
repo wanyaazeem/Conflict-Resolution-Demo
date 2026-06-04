@@ -15,6 +15,12 @@ Watch the demo here:
 ## 🔒 Full Course Access
 Full Storyline project is available upon request for review or evaluation purposes.
 
+The full version includes:
+Interactive scenarios
+Knowledge checks and assessments
+Learner-controlled navigation
+Complete course functionality
+
 📩 Contact:
 Email: w.azeem.connect@gmail.com 
 LinkedIn:  http://linkedin.com/in/wanya-azeem-563196277
